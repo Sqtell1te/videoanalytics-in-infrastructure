@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept.md",
+                "file": "technologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept.md",
+                "file": "technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept.md",
+                "file": "technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept.md"
+                "file": "technologies.md"
               }
             }
           }
@@ -164,10 +164,11 @@
   },
   "active": "34f1755a71428dbb",
   "lastOpenFiles": [
-    "videoanalytics-in-infrastructure",
-    "technologies.md",
     "concept.md",
     "README.md",
+    "technologies.md",
+    "obsidian.md",
+    "videoanalytics-in-infrastructure",
     "Программный модуль видеоаналитики и детектирования нарушений норм содержания инфраструктуры"
   ]
 }
