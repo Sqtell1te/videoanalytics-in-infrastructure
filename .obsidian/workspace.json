@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34f1755a71428dbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "70f33ac7d1d33821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,14 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34f1755a71428dbb",
+  "active": "ac9d85031c53c8c9",
   "lastOpenFiles": [
-    "articles.md",
+    "Cache/architecture_v1.png",
+    "concept.md",
     "README.md",
     "technologies.md",
-    "concept.md",
-    "obsidian.md",
+    "articles.md",
+    "Cache",
+    "Новая папка",
+    "Scheme.canvas",
+    "models.md",
     "videoanalytics-in-infrastructure",
+    "Technologies.md",
+    "obsidian.md",
     "Программный модуль видеоаналитики и детектирования нарушений норм содержания инфраструктуры"
   ]
 }

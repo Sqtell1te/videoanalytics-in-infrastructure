@@ -1,48 +1,113 @@
 ## Модели для сегментации и/или распознавания объектов:
 
 ### FlowSAM
+#### Краткое описание:
+Инструмент для обнаружения и сегментации движущихся объектов на видео
+#### Ссылки:
 - [Project Page](https://www.robots.ox.ac.uk/~vgg/research/flowsam/)
 - [GitHub](https://github.com/Jyxarthur/flowsam)
 - [Paper](https://arxiv.org/abs/2404.12389)
 - [Data](https://drive.google.com/drive/folders/1tmDq_vG_BvY5po40Ux5OBds1avUM_CbR)
 
-### YOLO Models
+### YOLO-v7
+#### Краткое описание:
+...
+#### Ссылки:
 * [Ultralytics Page](https://docs.ultralytics.com/models/)
 * [Paper](https://arxiv.org/abs/1506.02640)
 * [What is YOLO? The Ultimate Guide 2024](https://blog.roboflow.com/guide-to-yolo-models/) 
-#### FastSAM
-The Fast Segment Anything Model (FastSAM) is a novel, **real-time CNN-based solution for the Segment Anything task**. This task is designed to segment any object within an image based on various possible user interaction prompts. FastSAM significantly reduces computational demands while maintaining competitive performance, making it a practical choice for a variety of vision tasks.
-#### RT-DETR
-**Real-Time Detection** Transformer (RT-DETR), developed by Baidu, is a cutting-edge end to-end object detector that provides real-time performance while maintaining high accuracy. It leverages the power of Vision Transformers (ViT) to efficiently process multiscale features by decoupling intra-scale interaction and cross-scale fusion. RT-DETR is highly adaptable, supporting flexible adjustment of inference speed using different decoder layers without retraining. The model excels on accelerated backends like CUDA with TensorRT, outperforming many other real-time object detectors.
 
-### Detectron Models
-* Project Page
-* Paper
-* [GitHub (Detectron 2)](https://github.com/facebookresearch/detectron2)
+### YOLO-v8
+#### Краткое описание:
+...
+#### Ссылки:
+* [Ultralytics Page](https://docs.ultralytics.com/models/)
+* [Paper](https://arxiv.org/abs/1506.02640)
+* [What is YOLO? The Ultimate Guide 2024](https://blog.roboflow.com/guide-to-yolo-models/) 
 
-### MobileNET / MobileNet-SSD
+### MobileSAM
+#### Краткое описание:
+#### Ссылки:
+- [Paper](https://arxiv.org/abs/2306.14289)
+
+### FastSAM
+#### Краткое описание: 
+Быстрая модель на основе CNN c небольшими вычислительными требованиями для сегментации объектов в реальном времени.
+#### Ссылки:
+* [GitHub](https://github.com/CASIA-IVA-Lab/FastSAM)
+* [Paper](https://arxiv.org/pdf/2306.12156.pdf)
+* [Ultralytics Page](https://docs.ultralytics.com/ru/models/fast-sam/)
+
+### RT-DETR
+#### Краткое описание:
+Детектор объектов, основанный на DETR, который использует возможности ViT для эффективной обработки разномасштабных
+#### Ссылки:
+* [GitHub](https://github.com/lyuwenyu/RT-DETR)
+* [Paper](https://arxiv.org/abs/2304.08069)
+
+### MobileNetSSD
+#### Краткое описание:
+...
+#### Ссылки:
 * Project Page
 * Paper
 * [GitHub](https://github.com/chuanqi305/MobileNet-SSD)
 
-### DeepLab
-* Project Page
-* Paper
+### MobileNet-v4
+#### Краткое описание:
+...
+#### Ссылки:
+* [Paper](https://arxiv.org/abs/2404.10518v1)
 
-### ViTDet
-* Project Page
-* Paper
+### DeepLab-v3+
+#### Краткое описание:
+...
+#### Ссылки:
+* [Paper](https://arxiv.org/abs/1802.02611)
+
+### EfficientDet
+#### Краткое описание:
+...
+#### Ссылки:
+* [Paper](https://arxiv.org/abs/1911.09070)
 
 ### Swin Transformer
+#### Краткое описание:
+...
+#### Ссылки:
 * [Paper](https://arxiv.org/pdf/2103.14030)
 
 ### Faster R-CNN
-* Paper
+#### Краткое описание:
+...
+#### Ссылки:
+* [Paper](https://arxiv.org/abs/1506.01497)
+* [Habr](https://habr.com/ru/articles/599057/)
 
 ### RetinaNet
+#### Краткое описание:
+...
+#### Ссылки:
 * Paper
 
+#### Detectron 2
+#### Ссылки
+* [Project Page](https://ai.meta.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
+* [GitHub](https://github.com/facebookresearch/detectron2)
+
+
+## Модели для преобразования изображений в текст
+
+### SAT
+#### Краткое описание
+
+#### Ссылки
+* [Paper](https://arxiv.org/abs/1502.03044)
+
+### NeuralTalk2
+#### Ссылки:
+* Paper
+
+
 ## Дополнительно
-
-
-
+* [OpenVINO is an open-source toolkit for optimizing and deploying deep learning models](https://docs.openvino.ai/2022.3/home.html)
