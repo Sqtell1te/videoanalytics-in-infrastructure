@@ -1,3 +1,4 @@
+# Videoanalytics in infrastructure
 >Это база знаний, сделанная с помощью [obsidian.md](https://obsidian.md/).
 
 ## Навигация:
