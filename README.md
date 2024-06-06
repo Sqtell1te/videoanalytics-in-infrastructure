@@ -6,7 +6,7 @@
 [Articles](articles.md) - список статей и источников.  
 [Concept](concept.md) - описание постановки задачи, целей и требований к системе.  
 [Technologies](technologies.md) - список технологий, которые будут использоваться для решения задач.  
-[Architecture](https://www.figma.com/file/1ttIEQIc7lqc2c2zoVZ7qU/videoanalytics-in-infrastructure) - наброски по архитектуре системы.  
+[Architecture](https://www.figma.com/board/WqUqIrm5pdnPOcZC41cODF/videoanalytics-in-infrastructure) - наброски по архитектуре системы.  
 [Datasets](datasets.md) - список датасетов, которые можно использовать для решения задачи.  
 
 ## Архитектура
