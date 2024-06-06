@@ -1,5 +1,40 @@
-## Модели для сегментации и/или распознавания объектов:
+## Модели для распознавания объектов:
+### UAV-YOLO
+#### Краткое описание:
+Улучшенная версия YOLOv3 с добавлением компонентов из ResNet
+#### Ссылки:
+- [Paper](https://www.mdpi.com/1424-8220/20/8/2238)
 
+### DS YOLO-v3
+#### Краткое описание:
+Улучшенная версия YOLOv3, в которой были убраны некоторые компоненты и добавлен механизм внимания MFCAM
+#### Ссылки:
+- [Paper](https://www.sciencedirect.com/science/article/pii/S1047320321000286)
+
+### HIC-YOLOv5
+#### Краткое описание:
+...
+#### Ссылки:
+* [Ultralytics Page](https://docs.ultralytics.com/models/)
+* [Paper](https://arxiv.org/abs/1506.02640)
+* [What is YOLO? The Ultimate Guide 2024](https://blog.roboflow.com/guide-to-yolo-models/) 
+
+### Li et al.
+### Краткое описание:
+Эффективная модель для распознавания сверхмалых объектов на снимках БПЛА
+#### Ссылки:
+- [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Li_Learning_Object-Wise_Semantic_Representation_for_Detection_in_Remote_Sensing_Imagery_CVPRW_2019_paper.pdf)
+
+### YOLO-v10
+#### Краткое описание:
+...
+#### Ссылки:
+* [Ultralytics Page](https://docs.ultralytics.com/models/)
+* [Paper](https://arxiv.org/abs/1506.02640)
+* [What is YOLO? The Ultimate Guide 2024](https://blog.roboflow.com/guide-to-yolo-models/) 
+
+
+## Модели для сегментации объектов:
 ### FlowSAM
 #### Краткое описание:
 Инструмент для обнаружения и сегментации движущихся объектов на видео
@@ -8,22 +43,6 @@
 - [GitHub](https://github.com/Jyxarthur/flowsam)
 - [Paper](https://arxiv.org/abs/2404.12389)
 - [Data](https://drive.google.com/drive/folders/1tmDq_vG_BvY5po40Ux5OBds1avUM_CbR)
-
-### YOLO-v7
-#### Краткое описание:
-...
-#### Ссылки:
-* [Ultralytics Page](https://docs.ultralytics.com/models/)
-* [Paper](https://arxiv.org/abs/1506.02640)
-* [What is YOLO? The Ultimate Guide 2024](https://blog.roboflow.com/guide-to-yolo-models/) 
-
-### YOLO-v8
-#### Краткое описание:
-...
-#### Ссылки:
-* [Ultralytics Page](https://docs.ultralytics.com/models/)
-* [Paper](https://arxiv.org/abs/1506.02640)
-* [What is YOLO? The Ultimate Guide 2024](https://blog.roboflow.com/guide-to-yolo-models/) 
 
 ### MobileSAM
 #### Краткое описание:
@@ -38,6 +57,24 @@
 * [Paper](https://arxiv.org/pdf/2306.12156.pdf)
 * [Ultralytics Page](https://docs.ultralytics.com/ru/models/fast-sam/)
 
+
+## Модели для преобразования изображений в текст
+
+### SAT
+#### Краткое описание
+
+#### Ссылки
+* [Paper](https://arxiv.org/abs/1502.03044)
+
+### NeuralTalk2
+#### Ссылки:
+* Paper
+
+
+## Дополнительно
+* [OpenVINO is an open-source toolkit for optimizing and deploying deep learning models](https://docs.openvino.ai/2022.3/home.html)
+
+## Без категории:
 ### RT-DETR
 #### Краткое описание:
 Детектор объектов, основанный на DETR, который использует возможности ViT для эффективной обработки разномасштабных
@@ -94,20 +131,3 @@
 #### Ссылки
 * [Project Page](https://ai.meta.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
 * [GitHub](https://github.com/facebookresearch/detectron2)
-
-
-## Модели для преобразования изображений в текст
-
-### SAT
-#### Краткое описание
-
-#### Ссылки
-* [Paper](https://arxiv.org/abs/1502.03044)
-
-### NeuralTalk2
-#### Ссылки:
-* Paper
-
-
-## Дополнительно
-* [OpenVINO is an open-source toolkit for optimizing and deploying deep learning models](https://docs.openvino.ai/2022.3/home.html)

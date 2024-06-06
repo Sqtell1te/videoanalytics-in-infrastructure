@@ -27,12 +27,28 @@
 * [Vehicle Detection From UAV Imagery With Deep Learning: A Review](https://ieeexplore.ieee.org/abstract/document/9439930)
 ## Рассмотрено
 
-### [A Survey of Object Detection for UAVs Based on Deep Learning / Обзор методов обнаружения объектов для БПЛА на основе глубокого обучения](https://www.mdpi.com/2072-4292/16/1/149)
+### [A Survey of Object Detection for UAVs Based on Deep Learning / Обзор методов обнаружения объектов для БПЛА на основе глубокого обучения {2024}](https://www.mdpi.com/2072-4292/16/1/149)
 #### Краткая информация:
 В статье рассматриваются основные методы для решения задач распознавания объектов через снимки БПЛА с различными условиями: распознавание объектов при наличии сложного фона, распознавание маленьких объектов, распознавание объектов при дисбалансе категорий, распознавание объектов с разной ориентацией на снимках.
 Также приведен список публичных датасетов с их описаниями.
 ![](Cache/article_1_1.png)
 ![](Cache/article_1_2.png)
+
+
+### [HIC-YOLOv5: Improved YOLOv5 For Small Object Detection / HIC-YOLOv5: Улучшенная YOLOv5 для обнаружения маленьких объектов {2023}](https://arxiv.org/abs/2309.16393v2)
+#### Краткая информация:
+В статье предлагается улучшенная с помощью механизма внимания (CBAM), small object detection head, channel feature fusion with involution YOLOv5 для распознавания объектов с БПЛА на высоте 5-120m.
+
+
+### [Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art / Трансформеры в обнаружении маленьких объектов {2023}](https://paperswithcode.com/paper/transformers-in-small-object-detection-a)
+
+
+### [YOLOv10: Real-Time End-to-End Object Detection {2024}](https://arxiv.org/pdf/2405.14458)
+#### Краткая информация
+![](Cache/yolov10tests.png)
+
+
+### [A Survey of Object Detection for UAVs Based on Deep Learning {2023}](https://www.researchgate.net/publication/376980068_A_Survey_of_Object_Detection_for_UAVs_Based_on_Deep_Learning)
 
 ## Взято как источник
 * ...
