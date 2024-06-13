@@ -47,8 +47,7 @@
 #### Краткая информация
 ![](Cache/yolov10tests.png)
 
-
-### [A Survey of Object Detection for UAVs Based on Deep Learning {2023}](https://www.researchgate.net/publication/376980068_A_Survey_of_Object_Detection_for_UAVs_Based_on_Deep_Learning)
+### [Enhancing UAV Aerial Image Analysis: Integrating Advanced SAHI Techniques with Real-Time Detection Models on the VisDrone Dataset {2024}](https://www.researchgate.net/publication/378055012_Enhancing_UAV_Aerial_Image_Analysis_Integrating_Advanced_SAHI_Techniques_with_Real-Time_Detection_Models_on_the_VisDrone_Dataset)
 
 ## Взято как источник
 * ...

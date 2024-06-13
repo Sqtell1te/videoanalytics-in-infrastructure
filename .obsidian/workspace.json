@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies.md",
+                "file": "articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles.md",
+                "file": "technologies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70f33ac7d1d33821",
+  "active": "3264564a9b8f3141",
   "lastOpenFiles": [
+    "articles.md",
+    "technologies.md",
     "README.md",
     "datasets.md",
     "concept.md",
-    "articles.md",
-    "technologies.md",
     "Cache/yolov10tests.png",
     "Cache/article_1_1.png",
     "Pasted.md",

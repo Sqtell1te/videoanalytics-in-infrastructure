@@ -1,29 +1,47 @@
 ## Модели для распознавания объектов:
-### UAV-YOLO
+### SCRDet++
 #### Краткое описание:
-Улучшенная версия YOLOv3 с добавлением компонентов из ResNet
+Улучшенная версия SCRDet для обнаружение небольших объектов в загроможденных кадрах.
 #### Ссылки:
-- [Paper](https://www.mdpi.com/1424-8220/20/8/2238)
+- [Paper](https://arxiv.org/abs/2004.13316)
+- [GitHub](https://yangxue0827.github.io/SCRDet++.html)
 
-### DS YOLO-v3
-#### Краткое описание:
-Улучшенная версия YOLOv3, в которой были убраны некоторые компоненты и добавлен механизм внимания MFCAM
-#### Ссылки:
-- [Paper](https://www.sciencedirect.com/science/article/pii/S1047320321000286)
-
-### HIC-YOLOv5
+### UAV-YOLOv3-CPP:
 #### Краткое описание:
 ...
 #### Ссылки:
-* [Ultralytics Page](https://docs.ultralytics.com/models/)
-* [Paper](https://arxiv.org/abs/1506.02640)
-* [What is YOLO? The Ultimate Guide 2024](https://blog.roboflow.com/guide-to-yolo-models/) 
+- [GitHub](https://github.com/Gitsuxd/UAV-Yolov3-SPP)
+- [Paper](https://link.springer.com/content/pdf/10.1007/s40430-023-04343-2.pdf)
 
-### Li et al.
-### Краткое описание:
-Эффективная модель для распознавания сверхмалых объектов на снимках БПЛА
+### HIC-YOLOv5
+#### Краткое описание:
+Улучшенная версия YOLOv5 
 #### Ссылки:
-- [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Li_Learning_Object-Wise_Semantic_Representation_for_Detection_in_Remote_Sensing_Imagery_CVPRW_2019_paper.pdf)
+* [Paper](https://arxiv.org/abs/2309.16393)
+* [GitHub](https://github.com/ultralytics/yolov5/pull/12264)
+
+### ARF-YOLOv8
+#### Ссылки:
+* [Paper](https://link.springer.com/content/pdf/10.1007/s11554-024-01483-z.pdf)
+* [GitHub](https://github.com/sbzeng/ARF-YOLOv8-for-uav)
+
+### YOLOX-X
+#### Краткое описание
+Улучшенная версия модели YOLOX (основана на YOLOv4), подходящая под задачи распознавания объектов на высоте около 125 метров.
+> The data that support the ﬁndings of this study are available from the corresponding author, Ning He, upon reasonable request.
+#### Ссылки:
+* [Paper](https://www.researchgate.net/publication/364418427_Improved_YOLOX-X_based_UAV_aerial_photography_object_detection_algorithm)
+
+### PP-YOLOE-R
+#### Ссылки:
+- [PaperWithCode](https://paperswithcode.com/paper/pp-yoloe-r-an-efficient-anchor-free-rotated)
+
+### PVswin-YOLOv8s
+#### Краткое описание:
+Улучшенная версия YOLOv8s для распознавания пешеходов и автомобилей со снимков дрона, снятых на высоте до 125 метров.
+>The data presented in this study are available on request from the corresponding author.
+#### Ссылки:
+- [Paper](https://www.mdpi.com/2504-446X/8/3/84)
 
 ### YOLO-v10
 #### Краткое описание:
