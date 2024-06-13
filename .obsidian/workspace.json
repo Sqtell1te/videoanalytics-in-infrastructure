@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles.md",
+                "file": "technologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies.md",
+                "file": "articles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,21 +150,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3264564a9b8f3141",
+  "active": "70f33ac7d1d33821",
   "lastOpenFiles": [
-    "articles.md",
-    "technologies.md",
     "README.md",
-    "datasets.md",
+    "articles.md",
     "concept.md",
+    "datasets.md",
+    "technologies.md",
     "Cache/yolov10tests.png",
     "Cache/article_1_1.png",
     "Pasted.md",

@@ -1,49 +1,61 @@
 ## Модели для распознавания объектов:
-### SCRDet++
+### SCRDet++ {2020}
 #### Краткое описание:
-Улучшенная версия SCRDet для обнаружение небольших объектов в загроможденных кадрах.
+Улучшенная версия SCRDet (модели, на основе RetinaNet) для обнаружения небольших объектов в загроможденных кадрах.
 #### Ссылки:
-- [Paper](https://arxiv.org/abs/2004.13316)
-- [GitHub](https://yangxue0827.github.io/SCRDet++.html)
+- [Paper](https://arxiv.org/abs/2004.13316)(233 citates)
+- [GitHub](https://yangxue0827.github.io/SCRDet++.html) (770 stars)
 
-### UAV-YOLOv3-CPP:
+### TPH-YOLOv5 {2021}
+#### Краткое описание:
+Улучшенная с помощью Transformer Prediction Head версия YOLOv5.
+#### Ссылки:
+- [GitHub](https://github.com/cv516Buaa/tph-yolov5) (699 stars)
+- [Paper](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)(772 citates)
+
+### UAV-YOLOv3-CPP {2023}
 #### Краткое описание:
 ...
 #### Ссылки:
-- [GitHub](https://github.com/Gitsuxd/UAV-Yolov3-SPP)
-- [Paper](https://link.springer.com/content/pdf/10.1007/s40430-023-04343-2.pdf)
+- [GitHub](https://github.com/Gitsuxd/UAV-Yolov3-SPP) (2 stars)
+- [Paper](https://link.springer.com/content/pdf/10.1007/s40430-023-04343-2.pdf) (1 citate)
 
-### HIC-YOLOv5
+### HIC-YOLOv5 {2023}
 #### Краткое описание:
 Улучшенная версия YOLOv5 
 #### Ссылки:
-* [Paper](https://arxiv.org/abs/2309.16393)
-* [GitHub](https://github.com/ultralytics/yolov5/pull/12264)
+* [Paper](https://arxiv.org/abs/2309.16393) (7 citates)
+* [GitHub](https://github.com/aash1999/yolov5-cbam/tree/master) (4 stars)
 
-### ARF-YOLOv8
+### ARF-YOLOv8 {2024}
 #### Ссылки:
-* [Paper](https://link.springer.com/content/pdf/10.1007/s11554-024-01483-z.pdf)
-* [GitHub](https://github.com/sbzeng/ARF-YOLOv8-for-uav)
+* [Paper](https://link.springer.com/content/pdf/10.1007/s11554-024-01483-z.pdf) (0 citates)
+* [GitHub](https://github.com/sbzeng/ARF-YOLOv8-for-uav) (0 stars)
 
-### YOLOX-X
-#### Краткое описание
+### YOLOX-X {2022}
+#### Краткое описание:
 Улучшенная версия модели YOLOX (основана на YOLOv4), подходящая под задачи распознавания объектов на высоте около 125 метров.
 > The data that support the ﬁndings of this study are available from the corresponding author, Ning He, upon reasonable request.
 #### Ссылки:
 * [Paper](https://www.researchgate.net/publication/364418427_Improved_YOLOX-X_based_UAV_aerial_photography_object_detection_algorithm)
 
-### PP-YOLOE-R
+### PP-YOLOE-R {2022}
+#### Краткое описание:
+...
 #### Ссылки:
 - [PaperWithCode](https://paperswithcode.com/paper/pp-yoloe-r-an-efficient-anchor-free-rotated)
+- [Paper](https://arxiv.org/pdf/2211.02386v1.pdf)
+- [GitHub 1](https://github.com/PaddlePaddle/Paddle) (21.7k+ stars)
+- [GitHub 2](https://github.com/PaddlePaddle/PaddleDetection) (12.2k+ stars)
 
-### PVswin-YOLOv8s
+### PVswin-YOLOv8s {2024}
 #### Краткое описание:
 Улучшенная версия YOLOv8s для распознавания пешеходов и автомобилей со снимков дрона, снятых на высоте до 125 метров.
 >The data presented in this study are available on request from the corresponding author.
 #### Ссылки:
 - [Paper](https://www.mdpi.com/2504-446X/8/3/84)
 
-### YOLO-v10
+### YOLO-v10 {2024}
 #### Краткое описание:
 ...
 #### Ссылки:
