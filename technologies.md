@@ -3,7 +3,7 @@
 **Краткое описание:**  
 Улучшенная версия SCRDet (модели, на основе RetinaNet) для обнаружения небольших объектов в загроможденных кадрах.  
 **Ссылки:**  
-- [Paper](https://arxiv.org/abs/2004.13316)(233 citates)
+- [Paper](https://arxiv.org/abs/2004.13316) (233 citates)
 - [GitHub](https://yangxue0827.github.io/SCRDet++.html) (770 stars)
 
 ### TPH-YOLOv5 {2021}
@@ -11,7 +11,7 @@
 Улучшенная с помощью Transformer Prediction Head версия YOLOv5.  
 **Ссылки:**
 - [GitHub](https://github.com/cv516Buaa/tph-yolov5) (699 stars)
-- [Paper](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)(772 citates)
+- [Paper](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html) (772 citates)
 
 ### UAV-YOLOv3-CPP {2023}
 **Краткое описание:**    
