@@ -53,7 +53,15 @@
 #### [GitHub](https://github.com/VisDrone/VisDrone-Dataset)
 
 
-### [HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection](https://link.springer.com/article/10.1038/s41597-023-02066-6)
+### HIT-UAV: A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection
 #### Краткая информация:
 Датасет, состоящий из 43 470 инфракрасных изображений, снятых с большой высоты. К каждому изображению указаны данные о полете: высота полета, перспектива камера, дата, интенсивность дневного света. Изображения аннотированы вручную.
 #### [Project page](https://pegasus.ac.cn/)
+#### [Paper](https://link.springer.com/article/10.1038/s41597-023-02066-6)
+
+
+### UAVid: A Semantic Segmentation Dataset for UAV Imagery
+#### Краткая информация:
+UAVid — это датасет семантической сегментации БПЛА высокого разрешения, который может использоваться для таких задач, как крупномасштабные вариации, распознавание движущихся объектов и сохранение временной согласованности. Набор данных БПЛА состоит из 30 видеопоследовательностей, фиксирующих изображения высокого разрешения 4K в наклонных проекциях. В общей сложности 300 изображений были плотно помечены 8 классами.
+#### [Article](https://arxiv.org/abs/1810.10438)
+#### [PaperWithCode](https://paperswithcode.com/dataset/uavid)
