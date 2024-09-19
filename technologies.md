@@ -34,16 +34,16 @@
 **Краткое описание:**    
 Облегченная за счет SPP модуля одноэтапная модель на основе YOLOv3. 
 **Ссылки:**
-- [GitHub](https://paperswithcode.com/paper/slimyolov3-narrower-faster-and-better-for) (1137 stars)
+- [GitHub](https://paperswithcode.com/paper/slimyolov3-narrower-faster-and-better-for) (1140 stars)
 - [Paper](https://link.springer.com/content/pdf/10.1007/s40430-023-04343-2.pdf) (1 citate)
 - [PapersWithCode](https://paperswithcode.com/paper/slimyolov3-narrower-faster-and-better-for)
 
 ### HIC-YOLOv5 {2023}
 **Краткое описание:**   
-Улучшенная версия YOLOv5   
+Улучшенная с помощью механизма внимания (CBAM), small object detection head, channel feature fusion with involution YOLOv5 для распознавания объектов с БПЛА на высоте 5-120m.
 **Ссылки:**
 * [Paper](https://arxiv.org/abs/2309.16393) (7 citates)
-* [GitHub](https://github.com/aash1999/yolov5-cbam/tree/master) (4 stars)
+* [GitHub](https://github.com/aash1999/yolov5-cbam/tree/master) (5 stars)
 
 ### ARF-YOLOv8 {2024}
 **Краткое описание:**    
@@ -89,6 +89,7 @@ The data presented in this study are available on request from the corresponding
 ### YOLOv10 {2024}
 **Краткое описание:**   
 Новейшая модель в семействе YOLO
+![](Cache/yolov10tests.png)
 **Ссылки:**
 * [Ultralytics Page](https://docs.ultralytics.com/models/)
 * [Paper](https://arxiv.org/abs/2405.14458v1)
@@ -106,11 +107,19 @@ The data presented in this study are available on request from the corresponding
 - [Paper](https://arxiv.org/abs/2404.12389)
 - [Data](https://drive.google.com/drive/folders/1tmDq_vG_BvY5po40Ux5OBds1avUM_CbR)
 
-### MobileSAM
+### MobileSAM {2023}
 **Краткое описание:**   
-...  
+Заменяет тяжелый кодировщик изображений в SAM на облегченный кодировщик изображений для более быстрой сегментации чего угодно (SegAny).
 **Ссылки:**
 - [Paper](https://arxiv.org/abs/2306.14289)
+- [GitHub](https://github.com/ChaoningZhang/MobileSAM)
+
+### MobileSAMv2 {2023}
+**Краткое описание:**   
+Заменяет grid-search prompt sampling в SAM на object-aware prompt sampling для более быстрого сегментирования всего (SegEvery).
+**Ссылки:**
+- [Paper](https://www.researchgate.net/publication/376579294_MobileSAMv2_Faster_Segment_Anything_to_Everythingresearchgate.net/publication/371851844_Faster_Segment_Anything_Towards_Lightweight_SAM_for_Mobile_Applications)
+- [GitHub](https://github.com/ChaoningZhang/MobileSAM)
 
 ### FastSAM
 **Краткое описание:**   
@@ -193,7 +202,7 @@ The data presented in this study are available on request from the corresponding
 **Ссылки:**
 * Paper
 
-#### Detectron 2
+### Detectron 2
 **Краткое описание:**    
 ...    
 **Ссылки:**
