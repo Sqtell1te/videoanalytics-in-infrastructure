@@ -6,7 +6,6 @@
       {
         "id": "001bb5aa3a7febc9",
         "type": "tabs",
-        "dimension": 51.33248730964467,
         "children": [
           {
             "id": "70f33ac7d1d33821",
@@ -14,38 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "79845a5440949b78",
-        "type": "tabs",
-        "dimension": 48.66751269035533,
-        "children": [
-          {
-            "id": "877dbc8f8ff0d3c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f25cf52b9184d874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "datasets.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,14 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "877dbc8f8ff0d3c8",
+  "active": "70f33ac7d1d33821",
   "lastOpenFiles": [
+    "articles.md",
+    "books.md",
     "datasets.md",
     "README.md",
     "technologies.md",
-    "books.md",
     "concept.md",
-    "articles.md",
     "Cache/article_1_1.png",
     "Cache/article_1_2.png",
     "Cache/article_2_1.png",
